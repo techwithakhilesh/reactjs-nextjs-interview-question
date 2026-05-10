@@ -1,6 +1,6 @@
 # React.js & Next.js Interview Questions (7+ Years Experience)
 
-A curated list of the most frequently asked React.js and Next.js interview questions for senior frontend developers, frontend architects, and full-stack engineers.
+ List of the most frequently asked React.js and Next.js interview questions for senior frontend developers, frontend architects, and full-stack engineers.
 
 ---
 
@@ -336,8 +336,6 @@ A curated list of the most frequently asked React.js and Next.js interview quest
 ✅ Practice system design discussions  
 ✅ Be ready for live coding rounds  
 
----
 
-# 📖 Source
 
-Prepared from interview question collection. :contentReference[oaicite:0]{index=0}
+
